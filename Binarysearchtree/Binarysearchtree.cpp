@@ -8,6 +8,6 @@ public:
 	string info;
 	Node* leftchild;
 	Node* rightchild;
-
+ 
 	
 };
